@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: a3ddc218d51aa674f901d14f6e27dd82
+timeCreated: 1522790340
+licenseType: Free
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - item1: {instanceID: 0}
+  - item2: {instanceID: 0}
+  - OrderPrefab: {fileID: 1221353235946546, guid: f815f27308a7f474db2976de18a67d3e,
+      type: 2}
+  - TicketPrefab: {fileID: 1567946958159404, guid: f815f27308a7f474db2976de18a67d3e,
+      type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
